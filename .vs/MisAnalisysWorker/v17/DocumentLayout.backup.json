@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\migrations\\20250420194109_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\migrations\\20250420194109_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\models\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\models\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|c:\\users\\astan\\documents\\mis-analisys-dev\\misanalisysworker\\models\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8E1662-F6FA-48E7-B61D-4C38C04F7097}|MisAnalisysWorker\\MisAnalisysWorker.csproj|solutionrelative:misanalisysworker\\models\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\Appointment.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:43:27.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250420194109_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Migrations\\20250420194109_InitialMigration.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Migrations\\20250420194109_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Migrations\\20250420194109_InitialMigration.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Migrations\\20250420194109_InitialMigration.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:42:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:41:51.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Models\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\EmployeeType.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Models\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:39:55.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\Employee.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:39:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Models\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Models\\Diagnosis.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Models\\Diagnosis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:39:54.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Program.cs",
+              "RelativeDocumentMoniker": "MisAnalisysWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\Astan\\Documents\\Mis-Analisys-Dev\\MisAnalisysWorker\\Program.cs",
+              "RelativeToolTip": "MisAnalisysWorker\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:27:01.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

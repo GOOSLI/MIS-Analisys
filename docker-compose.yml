@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  misanalisysworker:
+    build:
+      context: .
+      dockerfile: MisAnalisysWorker/Dockerfile
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=mssql;Database=MisAnalisys;User=sa;Password=Your_Strong_Password123!;TrustServerCertificate=True;
+      - Logging__Console__LogLevel__Default=Information
+      - OpenAI__ApiKey=your-openai-api-key-here
+    depends_on:
+      - mssql
+    networks:
+      - misanalisys-network
+
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Your_Strong_Password123!
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-data:/var/opt/mssql
+    networks:
+      - misanalisys-network
+
+  mismetabase:
+    image: metabase/metabase:latest
+    ports:
+      - "3000:3000"
+    volumes:
+      - metabase-data:/metabase-data
+    environment:
+      - MB_DB_FILE=/metabase-data/metabase.db
+    networks:
+      - misanalisys-network
+
+networks:
+  misanalisys-network:
+    driver: bridge
+
+volumes:
+  mssql-data:
+  metabase-data: 
