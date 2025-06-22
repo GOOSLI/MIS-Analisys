@@ -3,6 +3,7 @@ using Hangfire.SqlServer;
 using Microsoft.EntityFrameworkCore;
 using MisAnalisysWorker.Data;
 using MisAnalisysWorker.Services;
+using MisAnalisysWorker.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddHttpClient();
 builder.Services.AddScoped<OpenAiService>();
+builder.Services.AddScoped<DeepseekService>();
+builder.Services.AddScoped<IAiService>(sp => sp.GetRequiredService<DeepseekService>());
 builder.Services.AddScoped<PrescriptionProcessingService>();
 
 builder.Services.AddHangfire(configuration => configuration

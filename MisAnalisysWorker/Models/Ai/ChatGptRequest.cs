@@ -12,7 +12,7 @@ namespace MisAnalisysWorker.Models.OpenAI
         public List<ChatMessage> Messages { get; set; } = new List<ChatMessage>();
 
         [JsonProperty("temperature")]
-        public float Temperature { get; set; } = 0.2f;
+        public float Temperature { get; set; } = 0f;
 
         [JsonProperty("max_tokens")]
         public int MaxTokens { get; set; } = 500;
